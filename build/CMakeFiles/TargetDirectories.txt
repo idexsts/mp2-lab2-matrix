@@ -1,0 +1,5 @@
+D:/C++/2 лаба (вектор и матрица)/mp2-lab2-matrix/build/CMakeFiles/ALL_BUILD.dir
+D:/C++/2 лаба (вектор и матрица)/mp2-lab2-matrix/build/CMakeFiles/ZERO_CHECK.dir
+D:/C++/2 лаба (вектор и матрица)/mp2-lab2-matrix/build/samples/CMakeFiles/samp.dir
+D:/C++/2 лаба (вектор и матрица)/mp2-lab2-matrix/build/gtest/CMakeFiles/gtest.dir
+D:/C++/2 лаба (вектор и матрица)/mp2-lab2-matrix/build/test/CMakeFiles/my_tests.dir

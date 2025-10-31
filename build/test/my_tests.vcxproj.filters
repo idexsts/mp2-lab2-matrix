@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\C++\2 лаба (вектор и матрица)\mp2-lab2-matrix\test\test_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\C++\2 лаба (вектор и матрица)\mp2-lab2-matrix\test\test_tmatrix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\C++\2 лаба (вектор и матрица)\mp2-lab2-matrix\test\test_tvector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\C++\2 лаба (вектор и матрица)\mp2-lab2-matrix\test\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A955E38F-ABC3-3380-B990-000BF6D8C98D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

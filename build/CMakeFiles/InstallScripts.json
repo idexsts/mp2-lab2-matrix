@@ -1,0 +1,11 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/C++/2 \u043b\u0430\u0431\u0430 (\u0432\u0435\u043a\u0442\u043e\u0440 \u0438 \u043c\u0430\u0442\u0440\u0438\u0446\u0430)/mp2-lab2-matrix/build/cmake_install.cmake",
+		"D:/C++/2 \u043b\u0430\u0431\u0430 (\u0432\u0435\u043a\u0442\u043e\u0440 \u0438 \u043c\u0430\u0442\u0440\u0438\u0446\u0430)/mp2-lab2-matrix/build/include/cmake_install.cmake",
+		"D:/C++/2 \u043b\u0430\u0431\u0430 (\u0432\u0435\u043a\u0442\u043e\u0440 \u0438 \u043c\u0430\u0442\u0440\u0438\u0446\u0430)/mp2-lab2-matrix/build/samples/cmake_install.cmake",
+		"D:/C++/2 \u043b\u0430\u0431\u0430 (\u0432\u0435\u043a\u0442\u043e\u0440 \u0438 \u043c\u0430\u0442\u0440\u0438\u0446\u0430)/mp2-lab2-matrix/build/gtest/cmake_install.cmake",
+		"D:/C++/2 \u043b\u0430\u0431\u0430 (\u0432\u0435\u043a\u0442\u043e\u0440 \u0438 \u043c\u0430\u0442\u0440\u0438\u0446\u0430)/mp2-lab2-matrix/build/test/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
